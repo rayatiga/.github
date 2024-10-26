@@ -1,6 +1,6 @@
 **Hello there! We're Rayatiga, Agency.**
 
-Rayatiga is an agency engaged in the field of information technology. Rayatiga provides web services such as domain name reservation, WordPress hosting, and WordPress-based website establishment services such as portfolios, company profiles, to e-commerce.
+Rayatiga is an SME that offers professional web development services focused on creating simple, high-quality static websites for landing pages, portfolios, and business profiles. With a clean design approach and seamless functionality, Rayatiga helps clients build effective online presences.
 
 Serving on: [rayatiga.com](https://rayatiga.com/)
 
