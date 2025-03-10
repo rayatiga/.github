@@ -1,1 +1,2 @@
-Rayatiga was a technology-focused SME specializing in digital solutions and innovation, operating until March 31, 2025.
+The Rayatiga is a dedicated SME specializing in domain registration, website
+maintenance, and static website development.
